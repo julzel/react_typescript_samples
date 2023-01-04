@@ -1,0 +1,44 @@
+[
+  {
+    "name": "David",
+    "lastName": "Brown",
+    "id": "4",
+    "email": "david@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Bob",
+    "lastName": "Johnson",
+    "id": "2",
+    "email": "jbob@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Emily",
+    "lastName": "Jones",
+    "id": "5",
+    "email": "jones.emily@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Alice",
+    "lastName": "Smith",
+    "id": "1",
+    "email": "salice@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Frank",
+    "lastName": "Miller",
+    "id": "6",
+    "email": "mfrank@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Charlie",
+    "lastName": "Williams",
+    "id": "3",
+    "email": "wcharlie@example.com",
+    "thumbnail": "https://via.placeholder.com/150"
+  }
+]
